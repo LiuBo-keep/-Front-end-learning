@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b65ccde-c230-4738-846f-fe52654ff217" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cshM29JrDTpstnf2CCIJa8PUbJ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react/demo03" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.数组3.js">
+    <configuration name="数组1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es1/数组1.js" working-dir="$PROJECT_DIR$/es1">
+      <method v="2" />
+    </configuration>
+    <configuration name="数组2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es1/数组2.js" working-dir="$PROJECT_DIR$/es1">
+      <method v="2" />
+    </configuration>
+    <configuration name="数组3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es1/数组3.js" working-dir="$PROJECT_DIR$/es1">
+      <method v="2" />
+    </configuration>
+    <configuration name="函数参数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es1/函数参数.js" working-dir="$PROJECT_DIR$/es1">
+      <method v="2" />
+    </configuration>
+    <configuration name="解构赋值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es1/解构赋值.js" working-dir="$PROJECT_DIR$/es1">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.数组3.js" />
+        <item itemvalue="Node.js.数组2.js" />
+        <item itemvalue="Node.js.数组1.js" />
+        <item itemvalue="Node.js.解构赋值.js" />
+        <item itemvalue="Node.js.函数参数.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b65ccde-c230-4738-846f-fe52654ff217" name="Default Changelist" comment="" />
+      <created>1591323156618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591323156618</updated>
+      <workItem from="1591323157730" duration="2903000" />
+      <workItem from="1591368331050" duration="26000" />
+      <workItem from="1591421552856" duration="8156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
